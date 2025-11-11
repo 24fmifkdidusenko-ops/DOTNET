@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\bin\Debug\lr4.exe.config
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\bin\Debug\lr4.exe
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\bin\Debug\lr4.pdb
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\obj\Debug\lr4.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\obj\Debug\lr4.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\obj\Debug\lr4.exe
+C:\Users\Пользователь\Downloads\Університет\Семестр VII\Універсальна кросплатформна розробка на платформі .NET Core\lr4\lr4\obj\Debug\lr4.pdb
